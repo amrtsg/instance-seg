@@ -1,3 +1,5 @@
+# Instance Segmentation - UNet
+
 ## Dependencies
 ### (Tested Tensorflow-GPU ENV with 3080)
 - Python = 3.7.16
@@ -10,7 +12,6 @@
 - Segmentation-models
 - Scikit-Learn
 
-# Instance Segmentation
 This is a model for instance segmentation, based off UNet with a ResNet backbone.
 ![alt text](https://github.com/amrtsg/instance-seg/blob/master/models/segmentation.png?raw=true)
 
