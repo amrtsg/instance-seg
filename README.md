@@ -1,7 +1,10 @@
 # Instance Segmentation - UNet
 
+A model for instance segmentation on images, based off UNet with a ResNet backbone.
+
 ## Dependencies
-### (Tested Tensorflow-GPU ENV with 3080)
+### Tested Tensorflow-GPU ENV with 3080
+```
 - Python = 3.7.16
 - Tensorflow-GPU = 2.5.0
 - CudaToolKit = 11.3.1
@@ -11,7 +14,6 @@
 - MatPlotLib
 - Segmentation-models
 - Scikit-Learn
-
-This is a model for instance segmentation, based off UNet with a ResNet backbone.
+```
 ![alt text](https://github.com/amrtsg/instance-seg/blob/master/models/segmentation.png?raw=true)
 
